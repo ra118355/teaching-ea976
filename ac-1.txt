@@ -1,4 +1,4 @@
-﻿ATIVIDADE COMPLEMENTAR 1
+﻿0ATIVIDADE COMPLEMENTAR 1
 
 Pedro Correa Bueno de Castro
 RA: 118355
@@ -9,16 +9,23 @@ e responda às seguintes questões:
 
 1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
 
-	Resposta:
+	Resposta:A amostragem foi de 235 projetos sendo que 70 deles foram considerados falhos. Este valor não é confiável,
+		 e possívelmente maior já que a política de muitas empresas nçao permitia que seus gestores considerassem
+		 seus softwares um fracasso.
 
 
+2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações.
+   Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
 
-2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
-
-	Resposta:
-
+	Resposta:Clientes que não gastaram tempo suficiente pensando nos requisitos do projetos e o projeto não ter o staff
+		 adequado estão relacionados já que certos requisitos podem ter sido esquecidos ou mal compreendidos pelos
+		 projetistas e assim a equipe escolhida atende os requisitos que não são condizentes com os que o cliente
+		 realmente gostaria, gerando falsas expecitativas e alterações inesperadas.
 
 
 3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
 
-	Resposta:
+	Resposta:A maioria dos projetos teve como problema más estimativas por causa do pouco tempo gasto pelos clientes
+		 para pensar nos requisitos do software. Uma análise melhor dos requisitos junto ao cliente gera menos
+		 problemas associados a projetos subestimados. Além disso, a decisão de entrada foi o grande problema entre
+		 os projetos analisados, sendo que os gestores não participam, em geral, desta decisão. 
